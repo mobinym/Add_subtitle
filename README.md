@@ -79,7 +79,3 @@ Here is another line of text.
 
 ---
 
-## ❤️ Support  
-Found this project useful? Give it a ⭐ to show your support!  
-
----
